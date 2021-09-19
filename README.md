@@ -1,3 +1,3 @@
 # Install
-npm i
+npm i</br>
 npm install --save-dev jest
